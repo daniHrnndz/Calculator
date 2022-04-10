@@ -69,7 +69,7 @@ h1 {
           filter: brightness(93%) blur(0.5px);
 }
 
-.calculator .operators {
+.calculator .btn_op {
   background-color: #ffdcdc;
 }
 
