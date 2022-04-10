@@ -1,4 +1,4 @@
-# p_calculator
+# Calculator
 this is a calculator made from scratch. It has a simple html and css syntax
 
 it allows to compute the basic algebraic operations (+, -, *, /)
